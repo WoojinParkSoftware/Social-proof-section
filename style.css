@@ -212,7 +212,7 @@ body .content .section-bottom .review3 {
 body .content .section-bottom .review1:hover,
 body .content .section-bottom .review2:hover,
 body .content .section-bottom .review3:hover {
-    box-shadow: inset 350px 0 0 0 var(--Dark-Grayish-Magenta);
+    box-shadow: inset 100vw 0 0 0 var(--Dark-Grayish-Magenta);
     color: #19cede;
 }
 
